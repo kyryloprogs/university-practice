@@ -19,4 +19,4 @@ Results of this task in repository: <a href="https://github.com/kyryloprogs/dogg
     ●	https://www.edamam.com/
 
   
-Results of this task in file: <a href="https://github.com/kyryloprogs/university-practice/blob/main/js-tasks.js"></a>
+Results of this task in file: <a href="https://github.com/kyryloprogs/university-practice/blob/main/js-tasks.js">Here</a>
