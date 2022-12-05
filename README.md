@@ -21,7 +21,7 @@ Results of this task in repository: <a href="https://github.com/kyryloprogs/dogg
   
 Results of this task in file: <a href="https://github.com/kyryloprogs/university-practice/blob/main/js-tasks.js">Here</a>
 
-3 Block - Git guide
+<h2>3. Block - Git guide</h2>
 
     1.	init, checkout
     2.	fetch, clone, add, commit
@@ -37,3 +37,36 @@ Results of this task in file: <a href="https://github.com/kyryloprogs/university
 
 Practice task:
 	Install git. Create an account in any git system. Try each point in the own project.
+
+<h2>4. Block - basic architecture</h2>
+
+    1.	OOP
+    2.	MV* (MVC / MVVM / MVP)
+    3.	SPA / SSR / PWA
+    4.	Rest API
+    5.	Flux
+    6.	CRA & Vite.js
+
+Practice task:
+	Make some notes, learn by heart for interview. 
+	
+<h2>5 Block - React</h2>
+
+    https://reactjs.org/docs/getting-started.html
+    Read at least such sections:	
+    1.	“Main concepts”
+    2.	“Advanced guides”
+    3.	“Hooks”
+    4.	https://reactjs.org/docs/react-component.html
+
+    Additional points:
+    1.	RealDom VS VirtualDom, benefits of this approach
+    2.	prop drilling
+    3.	abstract class
+    4.	interface
+    5.	component types (smart / dump, stateless / statefull etc.)
+
+
+Practice task:
+	Create a structure in the project. Prepare the components and a form for admin CRUD operations. 
+
