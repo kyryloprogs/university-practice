@@ -70,3 +70,22 @@ Practice task:
 Practice task:
 	Create a structure in the project. Prepare the components and a form for admin CRUD operations. 
 
+Results: <a href="https://github.com/kyryloprogs/CRUD-app-react/tree/main/crud-react">Here</a>
+
+<h2>6. Block - Redux (saga, thunk, mobX)</h2>
+
+    1.	Redux approach 
+    2.	Redux-saga 
+    3.	Redux-thunk
+    4.	Redux Toolkit
+    5.	MobX
+    6.	Make comparison and conclusion 
+    7.	Redux Dev Tools
+    
+Practice task: 
+For now, you can choose one of the technologies and use in project. CRUD operation can be call from console (layout doesn't matter here). 
+
+
+Results: <a href="https://github.com/kyryloprogs/CRUD-app-react/tree/react-redux/">Here</a>
+
+
